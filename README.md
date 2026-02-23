@@ -45,7 +45,7 @@ git push                          # 4. Upload to GitHub
 
 ## Something went wrong?
 
-**Don't panic!** The nuclear option always works:
+The nuclear option always works:
 
 ```bash
 cd ..
