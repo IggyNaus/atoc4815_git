@@ -12,7 +12,6 @@ When both sections are complete, run:
 
 The main() function calls everything and prints a full weather report.
 """
-
 # ============================================================
 # SECTION A  --  Partner A: Temperature Analysis
 # ============================================================
